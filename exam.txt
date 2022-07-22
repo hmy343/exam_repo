@@ -1,5 +1,16 @@
+jinkyungww
 실습하기
+<<<<<<< HEAD
 ???
 
 >?>?
 ??
+=======
+main
+=======
+???
+
+
+test222
+>>>>>>> 3b472ac6ee357c8265f0d8ea390823c7876fca7d
+test2 kgr
